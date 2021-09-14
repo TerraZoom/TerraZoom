@@ -1,6 +1,6 @@
 - 👋 Hi, I'm John Williams, @TerraZoom
 - 🌄 The power to imagine. The power to create. The power to explore.
-- 🌌 I’m a Creative, bringing awe and delight to the web, design, and writing.
+- 🌌 I’m a Creative, bringing awe and delight by coding with Javascript, PHP and the Web, graphic design, and writing.
 - 👀 LinkedIn: https://www.linkedin.com/in/terrazoom/
 - 😎 I’m currently diving deep with D3.js. 
 - 🛸 I’m looking to collaborate on cool and not-so-cool but interesting projects
