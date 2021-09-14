@@ -1,12 +1,13 @@
 - 👋 Hi, I'm John Williams, @TerraZoom
-- The power to imagine. The power to create. The power to explore.
-- 👀 I’m a Creative, bringing awe and delight to the web, design, and writing.
-- 🌱 I’m currently learning D3.js. 
-- 💞️ I’m looking to collaborate on cool and not-so-cool but interesting projects
+- 🌄 The power to imagine. The power to create. The power to explore.
+- 🌌 I’m a Creative, bringing awe and delight to the web, design, and writing.
+- 👀 LinkedIn: https://www.linkedin.com/in/terrazoom/
+- 😎 I’m currently diving deep with D3.js. 
+- 🛸 I’m looking to collaborate on cool and not-so-cool but interesting projects
 - 📫 How to reach me john@terrazoom
 
 <!---
-I have a passion for storytelling and science, especially astronomy.
+I have a passion for creating stuff with code, storytelling and science, especially astronomy.
 Always outdoors as a kid, I spent my time exploring the creeks and hills of eastern Kansas. 
 I marveled at the fossils, limestone caves, intense thunderstorms and a starry sky created by a life away from the city. 
 I used to sit back in the hay as a kid learning all the constellations and anticipating a few satellites sail overhead. 
